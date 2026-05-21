@@ -1,4 +1,6 @@
-Chapter 1
+========
+outline
+========
 
 1. Introduction of Nick Carraway
 Nick tells the story from his perspective.
